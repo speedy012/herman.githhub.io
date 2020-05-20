@@ -1,0 +1,24 @@
+{
+  "name": "NewPortfolio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d port-folder"
+
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/speedy012/port.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/speedy012/herman.githhub.io/issues"
+  },
+  "homepage": "https://github.com/speedy012/port",
+  "dependencies": {
+    "gh-pages": "^2.2.0"
+  }
+}
