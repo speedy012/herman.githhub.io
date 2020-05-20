@@ -5,6 +5,7 @@
   "main": "index.js",
   "scripts": {
     "deploy": "gh-pages -d port-folder"
+
   },
   "repository": {
     "type": "git",
