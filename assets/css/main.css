@@ -1246,7 +1246,7 @@ input, select, textarea {
 			margin: -1em 0 0 -1em;
 			width: 2em;
 			height: 2em;
-			display: block;
+			display: none;
 			font-size: 2em;
 		}
 
